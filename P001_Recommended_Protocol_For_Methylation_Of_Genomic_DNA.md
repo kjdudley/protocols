@@ -1,16 +1,16 @@
-Recommended Protocol for Methylation of Genomic DNA
+# Recommended Protocol for Methylation of Genomic DNA
 
-Protocol
+## Protocol
 
 Dilute SAM to 1600 μM using the supplied 32 mM stock.
-a. SAM 32 mM stock 1 μl
-b. Nuclease free water 19 μl
++ SAM 32 mM stock 1 μl
++ Nuclease free water 19 μl
 Add in order:
-a. Nuclease free water 14 μl
-b. 10X NEBuffer 2 2 μl
-c. Diluted SAM from step 1 2 μl
-d. Genomic DNA (1 μg) 1 μl
-e. M.SssI methylase (4 U/μl) 1 μl
++ Nuclease free water 14 μl
++ 10X NEBuffer 2 2 μl
++ Diluted SAM from step 1 2 μl
++ Genomic DNA (1 μg) 1 μl
++ M.SssI methylase (4 U/μl) 1 μl
 Mix, Pipette up and down at least six times.
 Incubate one hour at 37°C.
 Stop the reaction by heating at 65°C for 20 minutes.
@@ -25,11 +25,11 @@ Notes:
 Example of a large-scale methylation:
 
 1. Add in order:
-a. Nuclease free water 220 μl
-b. 10X NEBuffer 2 50 μl
-c. SAM 32 mM 10 μl
-d. Lambda DNA (500 μg/ml) 200 μl
-e. SssI methylase (20 U/μl) 20 μl
++ Nuclease free water 220 μl
++ 10X NEBuffer 2 50 μl
++ SAM 32 mM 10 μl
++ Lambda DNA (500 μg/ml) 200 μl
++ SssI methylase (20 U/μl) 20 μl
 2. Mix, Pipette up and down at least six times.
 3. Incubate 2 hours at 37°C.
 4. Stop the reaction by heating at 65°C for 20 minutes. The DNA can be purified by phenol extraction followed by ethanol precipitation or by using a commercial DNA purification kit. For long-term storage at -20°C, suspend in TE.
