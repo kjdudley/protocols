@@ -1,4 +1,4 @@
-# Recommended Protocol for Methylation of Genomic DNA
+# Modified Protocol for Methylation of Genomic DNA
 
 ## Protocol
 
@@ -10,13 +10,13 @@ Dilute SAM to 1600 uM using the supplied 32 mM stock.
 Add in order:
 
 + Nuclease free water 14 ul
-+ 10X NEBuffer 2 2 ul
++ 10x Cutsmart buffer 2 ul
 + Diluted SAM from step 1 2 ul
 + Genomic DNA (1 ug) 1 ul
 + M.SssI methylase (4 U/ul) 1 ul
 
 Mix, Pipette up and down at least six times.
-Incubate one hour at 37 C.
+Incubate two hours at 37 C.
 Stop the reaction by heating at 65 C for 20 minutes.
 
 Notes:
